@@ -6,7 +6,7 @@ import math
 from scipy.optimize import fsolve
 import urllib.request as ulr
 import warnings
-import plotly.express as px
+#import plotly.express as px
 import geopandas as gpd
 from PIL import Image
 import json
@@ -174,5 +174,5 @@ if submit:
 url = 'https://share.streamlit.io/vinamrabharadwaj/solarwebapp/BhopalDemo/BhopalDemo.py'
 
 #submit1 = st.form_submit_button('See Bhopal Demo')
-if st.button('See Bhopal Demo'):
+if st.button('See Gandinagar Demo'):
     webbrowser.open_new_tab(url)
