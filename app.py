@@ -39,7 +39,7 @@ place = form.text_input('Enter City Name:')
 area = form.text_input('Rooftop Area (m.sq.):')
 cover = form.slider("Percentage of Roof for Solar Installation:")
 btype = form.selectbox('Select Category of Building:',('Residential', 'Commercial', 'PSP', 'Recreation'))
-tariff = form.text_input('Averge Electricity Cost (₹/kWh):')
+tariff = st.number_input(label ='Averge Electricity Cost (₹/kWh):')
 submit = form.form_submit_button('Submit')
 
 if submit:
