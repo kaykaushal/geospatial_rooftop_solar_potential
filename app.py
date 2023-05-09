@@ -24,7 +24,8 @@ ee.Initialize(credentials)
 #ee.Initialize()
 geolocator = Nominatim(user_agent=os.path.abspath(sys.argv[0]))
 
-st.title("Web-GIS Tool for Rooftop Solar Potential")
+st.title("Web-GIS Tool")
+st.title("for Rooftop Solar Potential")
 st.text("Know your building's solar potential and make the right decision! Protect environment!!")
 
 
