@@ -1,10 +1,11 @@
 import streamlit as st
+import requests
 import pandas as pd
 import ee
 import numpy as np
 import math
 from scipy.optimize import fsolve
-import urllib.request as ulr
+import urllib.request as urlopen
 import warnings
 #import plotly.express as px
 import geopandas as gpd
@@ -27,10 +28,9 @@ st.title("Estimating Rooftop Solar Potential")
 st.text("Know your building's solar potential and make the right decision! Protect environment!!")
 
 
-imageurl = 'https://github.com/kaykaushal/geospatial_rooftop_solar_potential/blob/main/logo.jpeg'
-img = ulr.urlopen(imageurl)
+imageurl = 'https://github.com/kaykaushal/geospatial_rooftop_solar_potential/blob/main/logo.jpeg?raw=true'
+image = Image.open(requests.get(imageurl, stream=True).raw)
 
-image = Image.open(img)
 st.image(image,use_column_width=True)
 st.markdown('<style>body{background-color: black;}</style>',unsafe_allow_html=True)
 
