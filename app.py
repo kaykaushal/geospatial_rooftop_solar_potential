@@ -27,7 +27,7 @@ st.title("Estimating Rooftop Solar Potential")
 st.text("Know your building's solar potential and make the right decision! Protect environment!!")
 
 
-imageurl = 'https://raw.githubusercontent.com/VinamraBharadwaj/SolarWebApp/main/Slide1.PNG'
+imageurl = 'https://github.com/kaykaushal/geospatial_rooftop_solar_potential/blob/main/logo.jpeg'
 img = ulr.urlopen(imageurl)
 
 image = Image.open(img)

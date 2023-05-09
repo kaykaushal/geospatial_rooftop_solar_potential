@@ -1,6 +1,5 @@
 pandas==1.8.1
 earthengine-api
-plotly_express
 geopy
 scipy
 geopandas
