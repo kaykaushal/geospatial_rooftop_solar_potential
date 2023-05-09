@@ -1,0 +1,4 @@
+pandas
+earthengine-api
+plotly_express
+geopy

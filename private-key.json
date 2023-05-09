@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ee-smdrayyan111-solarwebapp",
+  "private_key_id": "202327935dd01164097aaf0250f2909d903e00f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcP4yNDtB3wqRC\n1w2NkIQD5PPovqhDxJFQ6QZAyKeaMpnC5hNtJwaeGU1iIrdDOoGHhiJw7LcawUPp\nRAK7nAH+7bis0GGkJ03X1W1qG60piTap7bQzkaLs3zr28oZMNe4PnG1PSmM1K9Zo\npTLTFB5J1Imul8xqXqXHO0zCE8GVVWiVLUvXxCBy6Ylx8OnHmaCgispM2/gvERu/\nTK4PAPCwWfYwW/6cSl65d9ph1Ww5ETrrd76pTGj6opWuPiR4KePWtDOm4CTdHmGP\nzrJKULwst/YJ+OyG1pKZSH2+k1t3jDho9Rq9tCCPYwTv1fkjAnvB3GjO7rgk6O87\npmF8RQunAgMBAAECggEACZG1Q8rflQre47+/z5iQAJjpxAEsnGBY+lpb5cqrnxzd\ns15KfJT6fTn9ZusgagpYgF18KsqntfQTRRPdLohVSd2YOkhSrBtZ2978NWT+1zqM\nwA6BpGmKc57+fj/RRLrL6hLsAn4csb22DHvikATKwBhwFvOl2cupvKGl8LS2oqWr\noXdfCQdseYUiCxoXj946mYPzCqPj2zlhRgj04FzXPz/8reEjriupXGUJwogcuFYQ\n3Rucnsp8P663MIgjwap1suBQfVtiT8dflASaRZ9yoEITkOwB7Ou4BnzSxy98hkf9\nH5Qz/Y+2UA9CBAgogZ7GhUTtQWa3dEXSzKHs89xtaQKBgQD/+Kk09mjZ2Wbq35tK\nAPq2ZXsNAXP0G6hw31WbHq3PWfl0RuI+wk/8UADjMXxatRqnk+g6/SVXWm8obpu0\n4OZxI+i0ULcb84ql7dTtW8SPKL5J591i4OURBNodSCEdHM5DS6cPI/tJgnyKKGvX\n+RL+Ui00SXbJcUXj2ICsgvbNJQKBgQDcRd0kRr91VpCqhquffeMcrF3IPwFesP5s\n0etEqhRERFayL5VDstaEkkhKSIIiEmmVhSeI7DqAygdUgIR4mVkL+hbzOEAwRt/e\npKN8oG0LuPvmX/c2Dzzstj/oPSJOhcdzgg+QID+/SBjyRlQ73jV16oKwsFak3xKh\nSuEXcNRJ2wKBgQDR9ijtTZXR4/b8f7BEMqt0A6e8kk2HlUxEUZ1JoQ+W/smUrDQW\noJK1dvZTZZsIWHdlr/gUsuL3VTHKq3fDFZtQgND3XyHjppA67Ov0Sorflt8Hhk5d\nNfYPULiMvkaTN7alEqAU1kHgGU2IkgFr5V3ECKoVspDiSay3aTaays4glQKBgD/y\ngFrRty+HbAQ1iImK8G4YlDlYITuuQo6w+o46mhufg1PDgJ/gwWpHVXlLR4xAsCpa\nN7oGao2NGUes78hbLIDPn+4IPIpHaSKnxVae9Elc8LRW09v73IIT/sWbSeRl7htY\nfNAorJkJg0SCql2fCwIqjLpi1ySSJkRxCpvVg6vVAoGAK7o5eAfjY8rTZBRIbXnK\nGUV405sFofZnY4Qpj813vSmNxBRMc1hc0prEHkxxRnPG6orDVBZPUP1SPK7BP/8Y\n+czWHqdLEb2zymxujD2eJvbR7QrOjPS+urpDjpp15vrhoVjqncKZVf90dKF4iN2X\nCj8F1z3K19F9I2KiI8mS3M4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-solar@ee-smdrayyan111-solarwebapp.iam.gserviceaccount.com",
+  "client_id": "106228847477523996280",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-solar%40ee-smdrayyan111-solarwebapp.iam.gserviceaccount.com"
+}
