@@ -24,7 +24,7 @@ ee.Initialize(credentials)
 #ee.Initialize()
 geolocator = Nominatim(user_agent=os.path.abspath(sys.argv[0]))
 
-st.title("Estimating Rooftop Solar Potential")
+st.title("Web-GIS Tool for Rooftop Solar Potential")
 st.text("Know your building's solar potential and make the right decision! Protect environment!!")
 
 
@@ -176,3 +176,5 @@ url = 'https://share.streamlit.io/vinamrabharadwaj/solarwebapp/BhopalDemo/Bhopal
 #submit1 = st.form_submit_button('See Bhopal Demo')
 if st.button('See Gandinagar Demo'):
     webbrowser.open_new_tab(url)
+
+st.text("Harness the Power of SUN!")
